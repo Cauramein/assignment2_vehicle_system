@@ -30,7 +30,7 @@ public class Main {
             }
 
             vehicles[i].stopEngine();
-            System.out.println("----------------------");
+            System.out.println(" ");
         }
     }
 }
